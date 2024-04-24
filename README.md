@@ -1,6 +1,5 @@
 <img src='./src/feed.jpg' width='100%' >
-
-for now we just CTFs Enthusiast
+<img src='./src/content.jpg' width='100%' >
 
 this space is only for archives that are no longer in use, but if you're interested in something like this, you shouldn't and our previous job was not far from the one below, maybe not so bad lol
 
